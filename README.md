@@ -24,7 +24,7 @@ OR
 Clone this repository to your local machine.
 
 bash
-Copy code
+Copy code:
 git clone https://github.com/iKumarSonu/Analyzing-Effectiveness-of-Ad-Campaigns.git
 Open the project in a Jupyter Notebook environment or any Python-supported IDE.
 
