@@ -1,4 +1,5 @@
 Superhero U Ad Campaigns Analysis
+
 This repository contains an analysis of the effectiveness of ad campaigns for Superhero U, a global competition organized by GlobalShala. The analysis focuses on evaluating various metrics to assess the performance of Facebook Ads used to promote the event.
 
 Overview
